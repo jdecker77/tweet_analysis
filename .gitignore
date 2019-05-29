@@ -1,2 +1,5 @@
 data/
 scripts/
+notebooks/nlp.ipynb
+notebooks/prediction.ipynb
+notebooks/analysis_nw.ipynb
